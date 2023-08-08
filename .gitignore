@@ -1,1 +1,2 @@
-node_modules
+/node_modules
+// https://dev.to/akshay9677/writing-your-own-module-bundler-125b
